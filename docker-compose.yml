@@ -42,7 +42,7 @@ services:
       - 'traefik.port=80'
       - 'traefik.frontend.rule=Host:${APP_URL}'
     ports:
-      - '80:80'
+      - '81:80'
   node:
     image: node
     container_name: "${APP_NAME}_node"
