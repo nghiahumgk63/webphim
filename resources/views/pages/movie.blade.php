@@ -174,7 +174,7 @@
                      </div>
                     <!--  binh luan -->
                      <div class="section-bar clearfix">
-                        <h2 class="section-title"><span style="color:#ffed4d">Binh Luận</span></h2>
+                        <h2 class="section-title"><span style="color:#ffed4d">Binh Luận 111</span></h2>
                      </div>
                      <div class="entry-content htmlwrap clearfix" style="background-color: white;">
                         <div class="video-item halim-entry-box">
