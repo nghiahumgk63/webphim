@@ -44,6 +44,8 @@
       background-size: contain;
       text-indent: -9999px;
    }</style>
+   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6739412501954523"
+     crossorigin="anonymous"></script>
    </head>
    <body class="home blog halimthemes halimmovies" data-masonry="">
       <header id="header">
