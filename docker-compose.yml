@@ -12,6 +12,8 @@ services:
       MYSQL_PASSWORD: $DB_PASSWORD
     ports:
       - "3306:3306"
+    volumes:
+      - ./data:/backup
   php:
     image: wodby/php:7.4
     container_name: "${APP_NAME}_php"
